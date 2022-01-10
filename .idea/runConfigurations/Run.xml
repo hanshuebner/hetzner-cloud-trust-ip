@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Run" type="NodeJSConfigurationType" node-parameters="index.js netzhansa-firewall" working-dir="$PROJECT_DIR$">
+    <envs>
+      <env name="REMOTE_ADDR" value="1.2.3.4" />
+      <env name="QUERY_STRING" value="?host=blub&amp;password=foobar" />
+    </envs>
+    <method v="2" />
+  </configuration>
+</component>
